@@ -114,6 +114,7 @@
         <module>extensions-core/lookups-cached-single</module>
         <module>extensions-core/s3-extensions</module>
         <!-- Community extensions -->
+
         <module>extensions-contrib/azure-extensions</module>
         <module>extensions-contrib/cassandra-storage</module>
         <module>extensions-contrib/druid-rocketmq</module>
@@ -135,6 +136,7 @@
         <module>extensions-contrib/kafka-emitter</module>
         <!-- distribution packaging -->
         <module>distribution</module>
+        <module>assembly</module>
     </modules>
 
     <dependencyManagement>
